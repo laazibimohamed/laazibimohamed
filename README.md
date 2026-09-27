@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E60012&height=200&section=header&text=YOUR%20NAME&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src=""/>
 
   <br/>
 
