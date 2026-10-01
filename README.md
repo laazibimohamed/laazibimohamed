@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src=""/>
+  <img src="file:///C:/Users/asus/Pictures/LinkedIn%20Banner.png"/>
 
   <br/>
 
